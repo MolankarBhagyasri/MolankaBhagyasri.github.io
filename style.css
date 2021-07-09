@@ -1,0 +1,28 @@
+body{
+  padding-bottom: 1px;
+}
+  input[type="button"]{
+        background-color:greenyellow;
+        text-align: center;
+        background-position: 0%;
+        padding-top:10% ;
+       height:90%;
+       border: size 20px;
+       border-spacing:2px;
+        width:100%;     
+}
+input[type="text"]{
+  background-color:aliceblue;
+  text-align: center;
+  width:90%;
+}
+.main{
+/* margin-bottom: 440px; */
+width: 83%;
+height: 199px;
+}
+.shri{
+  /* margin-top: 100px; */
+}
+
+
